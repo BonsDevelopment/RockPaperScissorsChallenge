@@ -1,0 +1,8 @@
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\bin\Debug\RockPaperScissorsChallenge.exe.config
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\bin\Debug\RockPaperScissorsChallenge.exe
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\bin\Debug\RockPaperScissorsChallenge.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\bin\Debug\cMenu.dll
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\bin\Debug\cMenu.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\obj\Debug\RockPaperScissorsChallenge.csprojResolveAssemblyReference.cache
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\obj\Debug\RockPaperScissorsChallenge.exe
+c:\users\ironb\documents\visual studio 2015\Projects\RockPaperScissorsChallenge\RockPaperScissorsChallenge\obj\Debug\RockPaperScissorsChallenge.pdb
